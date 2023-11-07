@@ -17,4 +17,10 @@
  
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
+Olá, mundo! 👋
+
+Eu sou o Ricardo Gregorio, um entusiasta de tecnologia apaixonado por transformar ideias em código. Com 20 anos de experiência em Gestão de projetos e desenvolvimento de Software, estou sempre procurando novos desafios e oportunidades para aprender e crescer. Aqui no GitHub, você encontrará projetos que refletem meu interesse relacionados a aplicativos Web, Testes de Software e automação de processos , bem como minha dedicação à escrita de código limpo e eficiente.
+
+
+Não se esqueça de dar uma olhada nos meus repositórios e deixar uma estrela se você gostar do que vê!
+
